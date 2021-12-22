@@ -13,7 +13,7 @@ Key Features:
 The website can be viewed at :
 https://isaacmarcus.github.io/lnkin/
 
-A similar project using the same structure and template can be found at:
+A similar project using the same structure and template that i contribute to as well can be found at:
 - website: https://bro-fi.github.io/home/
 - repo: https://github.com/Bro-Fi/home
 
