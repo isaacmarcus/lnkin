@@ -1,3 +1,5 @@
+![preview_img](https://github.com/isaacmarcus/lnkin/blob/main/images/lnktree_ss.png?raw=true)
+
 # Link in Bio
 
 This is a website to direct people to the relevant links in bio inspired by the popular linktree website.
@@ -18,7 +20,4 @@ A similar project using the same structure and template that i contribute to as 
 - repo: https://github.com/Bro-Fi/home
 
 
-# Website Preview on Mobile
-
-![preview_img](https://github.com/isaacmarcus/lnkin/blob/main/images/lnktree_ss.png?raw=true)
  
